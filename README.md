@@ -34,3 +34,4 @@ This repository is still updating! Here are problems that I have solved:
 | PMCH | Perfect Matchings and RNA Secondary Structures |
 | PPER | Partial Permutations                           |
 | PROB | Introduction to Random Strings                 |
+| SIGN | Enumerating Oriented Gene Orderings            |
