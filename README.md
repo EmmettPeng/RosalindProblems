@@ -35,3 +35,4 @@ This repository is still updating! Here are problems that I have solved:
 | PPER | Partial Permutations                           |
 | PROB | Introduction to Random Strings                 |
 | SIGN | Enumerating Oriented Gene Orderings            |
+| SSEQ | Finding a Spliced Motif                        |
