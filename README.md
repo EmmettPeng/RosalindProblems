@@ -36,3 +36,4 @@ This repository is still updating! Here are problems that I have solved:
 | PROB | Introduction to Random Strings                 |
 | SIGN | Enumerating Oriented Gene Orderings            |
 | SSEQ | Finding a Spliced Motif                        |
+| TRAN | Transitions and Transversions                  |
