@@ -37,3 +37,4 @@ This repository is still updating! Here are problems that I have solved:
 | SIGN | Enumerating Oriented Gene Orderings            |
 | SSEQ | Finding a Spliced Motif                        |
 | TRAN | Transitions and Transversions                  |
+| TREE | Completing a Tree                              |
